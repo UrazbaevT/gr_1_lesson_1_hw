@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum Job {
+public enum Job {
+    PROGRAMMER, LAWYER, BUSINESSMAN
 }
